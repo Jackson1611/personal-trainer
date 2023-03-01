@@ -10,7 +10,7 @@ A brief description of what this project does and who it's for
 
 ## Screenshots
 
-Include some screenshots of your app here, if applicable.
+
 
 ## Tech Stack
 
